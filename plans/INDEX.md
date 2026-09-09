@@ -1,6 +1,6 @@
 # 育儿计划文档索引
 
-> 日常入口：先看本文件，再进入对应报告。单项观点审查文件保留为证据链，不需要日常逐个阅读。
+> 日常入口：先看本文件，再进入对应报告。外部观点默认写入所属领域报告和证据登记；只有跨领域、高风险或需要保留独立材料链时才建立专题文件。
 
 ## 0. 官方核心基线
 
@@ -29,7 +29,7 @@
 | [nutrition-report-0-3.md](./nutrition-report-0-3.md) | 0-12月逐月喂养、1-3岁营养框架 | `B`框架；出生后个体化更新 |
 | [psychology-report-0-3.md](./psychology-report-0-3.md) | 依恋、情绪、自主性和教养策略 | `B/C`；不作心理诊断 |
 | [education-resource-report-0-3.md](./education-resource-report-0-3.md) | 低成本书籍、课程与家庭教育资源 | `C`建议性 |
-| [physical-development-report-0-6.md](./physical-development-report-0-6.md) | 大运动、亲子网球、身高跟踪与安全 | `B/C`；按儿保数据调整 |
+| [physical-development-report-0-6.md](./physical-development-report-0-6.md) | 大运动、亲子网球、身高跟踪、跳跃及平衡协调专项 | `B/C`；增高承诺为`X`，按儿保数据调整 |
 | [school-report-0-3.md](./school-report-0-3.md) | 金色摇篮幼儿园和自忠小学时间线 | 时间推算`C`；资格为用户提供的核验结果，报名年度仍复核 |
 | [infant-seven-practices-review.md](./infant-seven-practices-review.md) | 婴儿自由运动、共读、语言、户外和回应式互动 | 出生后按月启用；辅食约6月龄再启用 |
 | [infant-reading-guide-0-3.md](./infant-reading-guide-0-3.md) | 0-3岁分龄选书、共享阅读、点读/有声/机关书和语言里程碑 | 出生后立即启用共读；产品按龄少量使用 |
@@ -43,13 +43,13 @@
 | [top-1-percent-achievement-review.md](./top-1-percent-achievement-review.md) | 学龄期家庭教育理念 | 理论框架`B/C`；原网帖`D` |
 | [dream-savings-jar-review.md](./dream-savings-jar-review.md) | 5岁后行为进度；7岁后财商 | 当前以后留档 |
 
-## 3. 运动与亲子游戏专题
+## 3. 保留的独立安全专题
 
 | 文档 | 建议年龄 | 结论摘要 |
 |---|---|---|
-| [balance-coordination-training-3-8.md](./balance-coordination-training-3-8.md) | 2岁准备、3-8岁进阶 | 平衡/协调/敏捷训练，不是前庭治疗 |
 | [parent-child-games-safety-review.md](./parent-child-games-safety-review.md) | 1岁后按分龄替代 | 原动作2/3/5/6不采纳，只用安全替代版 |
-| [height-jump-exercises-review.md](./height-jump-exercises-review.md) | 6岁后低量体能用途 | 增高/防骨骺主张`X`，体能价值`B/C` |
+
+追高跳跃和平衡/协调训练已合并进 `physical-development-report-0-6.md`，不再分别维护。亲子游戏安全审查涉及悬吊、翻转、绳索、小物误吸和电器等跨领域高风险材料，因此保留独立证据链。
 
 ## 4. 教育活动与证书候选
 
@@ -84,5 +84,5 @@
 
 - 新的事实（出生数据、居住/户籍、园校、健康、预算）写入 `child-profile.md` 后，说“运行育儿规划自检”。
 - 新的观点、短视频方法、课程、证书或产品原样输入即可；系统先归纳，再验证，不直接写入当前计划。
-- 只有“采纳”或“有限试行”的内容进入当前执行计划；“以后留档、待补材料、不采纳”只保留在专题审查文件。
+- 只有“采纳”或“有限试行”的内容进入当前执行计划；“以后留档、待补材料、不采纳”保留在所属领域报告或证据登记。默认不为单次需求新建文件。
 - 日常只需关注：`age-by-age-execution-plan-0-18.md`、`overview.md`、`review-state.md`。0-3岁需要细节时再看 `overview-0-3.md`，其他文件按需查阅。

@@ -1,5 +1,5 @@
 ---
-description: "儿童运动发展、体能与运动习惯子 Agent。使用场景：根据孩子年龄、身高体重和运动基础，规划分龄的大运动发展、亲子运动、网球/乒乓球/篮球等项目的游戏化启蒙、运动量、运动安全与伤害预防；目标是建立长期身体素质和运动兴趣，而非过早职业化训练。涉及促进长高时，说明遗传、睡眠、营养和健康是主要因素，不承诺通过单项训练增高。仅由 growth-atlas 或用户直接调用，不替代儿科/骨科/运动医学诊断，不负责营养配餐（转交 nutrition-agent）或学校入学政策（转交 school-agent）。"
+description: "儿童运动发展、体能与运动习惯子 Agent。使用场景：按年龄、身高体重和运动基础规划大运动、亲子运动、项目启蒙、运动量与伤害预防；不承诺单项训练增高。仅由 growth-atlas 或用户直接调用，不替代儿科/骨科/运动医学诊断；营养转交 nutrition-agent，入学规则转交 family-policy-agent。"
 name: "Physical Development Agent"
 tools: [web, read, search]
 user-invocable: false

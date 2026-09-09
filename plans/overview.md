@@ -16,7 +16,7 @@
 - [nutrition-report-0-3.md](./nutrition-report-0-3.md) — 0-12月逐月喂养营养建议 + 1-3岁分段建议
 - [psychology-report-0-3.md](./psychology-report-0-3.md) — 0-3岁心理发展理论与教养回应策略
 - [education-resource-report-0-3.md](./education-resource-report-0-3.md) — 分阶段书籍/课程/教育流派与低成本资源规划
-- [physical-development-report-0-6.md](./physical-development-report-0-6.md) — 大运动、身高跟踪、亲子网球与运动安全
+- [physical-development-report-0-6.md](./physical-development-report-0-6.md) — 大运动、身高跟踪、亲子网球、追高跳跃审查与平衡协调进阶
 - [infant-seven-practices-review.md](./infant-seven-practices-review.md) — 婴儿自由运动、共读、语言、户外和回应式互动
 
 | 阶段 | 年龄范围 | 关键待办 | 预估花费小计 |

@@ -33,7 +33,7 @@
 - **官方页面**：[教育部通知](https://www.moe.gov.cn/srcsite/A06/s3327/202202/t20220214_599198.html)
 - **官方附件**：[幼儿园保育教育质量评估指标.docx](http://www.moe.gov.cn/srcsite/A06/s3327/202202/W020220214624072515868.docx)
 - **建议文件名**：`MOE-Kindergarten-Quality-2022.docx`
-- **将更新**：金色摇篮实地考察清单、备选园比较表、school-agent。
+- **将更新**：金色摇篮实地考察清单、备选园比较表、family-policy-agent。
 
 ### 3. 《0岁～5岁儿童睡眠卫生指南》WS/T 579—2017
 

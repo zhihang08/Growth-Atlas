@@ -3,8 +3,8 @@
 > 孩子：预产期 2026-12-12，男孩，北京朝阳亚运村现居；同小区金色摇篮幼儿园资质已核验；自忠小学资质已核验并在其招生简章登记入学范围内。实际报名仍须按当年公告和材料审核办理。
 > 0-3岁官方基线：[CHS-Guide-summary.md](../references/CHS-Guide-summary.md)，国家卫生健康委办公厅，国卫办妇幼函〔2022〕409号。本文整合专项报告，按阶段给出待办、购物清单和预估花费：
 > 已下载补充：[NHC-Sleep-0-5-WST579-2017.pdf](../references/NHC-Sleep-0-5-WST579-2017.pdf)、[WHO-Activity-Sedentary-Sleep-Under5-2019.pdf](../references/WHO-Activity-Sedentary-Sleep-Under5-2019.pdf)、[WHO-Nurturing-Care-Framework-2018.pdf](../references/WHO-Nurturing-Care-Framework-2018.pdf)。睡眠以中国WS/T 579和CHS为执行优先，WHO用于交叉参考；3-6岁教育资料见专项报告。
-> - [policy-report-0-3.md](./policy-report-0-3.md) — 生育/落户/医保政策（policy-agent）
-> - [school-report-0-3.md](./school-report-0-3.md) — 入园入学时间线（school-agent）
+> - [policy-report-0-3.md](./policy-report-0-3.md) — 生育/落户/医保政策（family-policy-agent）
+> - [school-report-0-3.md](./school-report-0-3.md) — 入园入学时间线（family-policy-agent）
 > - [nutrition-report-0-3.md](./nutrition-report-0-3.md) — 逐月喂养营养（nutrition-agent）
 > - [psychology-report-0-3.md](./psychology-report-0-3.md) — 心理发展理论与教养策略（child-psychology-agent）
 > - [education-resource-report-0-3.md](./education-resource-report-0-3.md) — 书籍/课程/教育流派与低成本资源规划（education-resource-agent）

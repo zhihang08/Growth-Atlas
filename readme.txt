@@ -6,13 +6,11 @@
 
 - `.github/agents/growth-atlas.agent.md` — Growth-Atlas 总控 Agent，负责整体阶段规划、清单、花费预估，并调度子 Agent
 - `.github/agents/claim-review-agent.agent.md` — 子 Agent：先归纳用户看到的观点，再拆分主张、分级证据和分派领域验证
-- `.github/agents/policy-agent.agent.md` — 子 Agent：当地生育/育儿补贴政策查询
-- `.github/agents/school-agent.agent.md` — 子 Agent：幼儿园/学校/大学入学政策查询（含基于出生日期推算的升学时间线）
+- `.github/agents/family-policy-agent.agent.md` — 子 Agent：生育/医保/户籍政策与入园入学路径统一核验
 - `.github/agents/nutrition-agent.agent.md` — 子 Agent：按年龄/身高/体型的饮食营养建议（0-12月逐月细化）
 - `.github/agents/child-psychology-agent.agent.md` — 子 Agent：儿童心理发展理论与教养回应策略
 - `.github/agents/education-resource-agent.agent.md` — 子 Agent：分阶段育儿书籍/课程/教育流派推荐与低成本资源规划
 - `.github/agents/physical-development-agent.agent.md` — 子 Agent：分龄大运动、亲子锻炼、项目启蒙与运动安全规划
-- `.github/agents/child-development-assessment-agent.agent.md` — 子 Agent：九维全人发展仪表盘、阶段复盘与跨 Agent 优先级整合
 - `.github/agents/child-health-agent.agent.md` — 子 Agent：儿保、筛查、睡眠、伤害预防与就医红旗信号
 - `profile/child-profile.md` — 孩子基本信息与生长记录（首次使用前建议先填写）
 - `plans/INDEX.md` — 全部计划按当前执行、长期规划、运动专题、证书候选和证据状态分类的统一入口
@@ -32,14 +30,13 @@
 | 任务 | 调用 Agent | 理论/制度基线 |
 |---|---|---|
 | 外部观点、短视频、清单或效果主张初审 | `claim-review-agent` | 主张拆解、证据层级、适用性与风险评估 |
-| 跨维度阶段复盘与优先级 | `child-development-assessment-agent` | 生态系统理论、全人发展、最近发展区 |
+| 跨维度阶段复盘与优先级 | `growth-atlas` 总控 | 生态系统理论、全人发展、最近发展区 |
 | 儿保、筛查、症状分流与伤害预防 | `child-health-agent` | 国家儿童健康管理、免疫规划、循证儿科风险分层 |
 | 营养、生长与喂养 | `nutrition-agent` | WHO、中国膳食指南、儿童健康管理、生长曲线 |
 | 大运动、体能、运动习惯 | `physical-development-agent` | WHO/中国身体活动指南、基本动作技能、LTAD |
 | 情绪、依恋、行为与教养 | `child-psychology-agent` | 依恋、Piaget、Erikson、Vygotsky、执行功能 |
 | 书籍、课程与家庭教育投入 | `education-resource-agent` | 发展适宜性教育、游戏化学习、自我决定理论、双减精神 |
-| 生育、医保、户籍等事务 | `policy-agent` | 国家制度 → 北京市文件 → 西城区执行口径 |
-| 托育、入园、升学时间线 | `school-agent` | 受教育权、就近入学、发展适宜性教育、北京/西城招生文件 |
+| 生育、医保、户籍、托育与升学路径 | `family-policy-agent` | 国家制度 → 北京市文件 → 实际办理区/入学区执行口径 |
 
 ### 统一证据规则
 

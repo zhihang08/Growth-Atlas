@@ -19,12 +19,11 @@ user-invocable: false
    - 运动/感统/身体训练 → physical-development-agent
    - 心理/行为/教养 → child-psychology-agent
    - 学习方法/课程/证书/教育资源 → education-resource-agent
-   - 政策福利 → policy-agent
-   - 入园入学 → school-agent
-   - 跨维度影响 → child-development-assessment-agent
+   - 政策福利、户籍医保、入园入学 → family-policy-agent
+   - 跨维度影响 → growth-atlas 总控统一复盘
 4. 给出初步 A/B/C/D/X 证据等级；若没有原始来源，不得替用户补造来源或精确数字。
 5. 识别年龄、健康、文化、中国/北京政策、隐私、费用和机会成本边界。
-6. 输出处理状态：采纳、有限试行、以后留档、待补材料、不采纳，并列出应更新的计划文件。
+6. 输出处理状态：采纳、有限试行、以后留档、待补材料、不采纳，并列出应更新的已有领域报告；默认不为单次观点新建文件。
 
 ## 澄清门控
 
