@@ -1,3 +1,6 @@
 .env/
 .env
 *.local
+
+# Local child and family profile data
+profile/

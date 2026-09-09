@@ -1,6 +1,6 @@
 # Growth-Atlas
 
-使用 GitHub Copilot 自定义 Agent 实现的「新生儿养育总控规划」知识库与调度系统。
+使用 GitHub Copilot 自定义 Agents 实现的「新生儿养育总控规划」知识库与调度系统。
 
 ## 目录
 
