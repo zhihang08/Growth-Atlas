@@ -1,6 +1,6 @@
 # 0-3 岁总体规划汇总（Growth-Atlas 总控）
 
-> 孩子：预产期 2026-12-12，男孩，北京朝阳亚运村现居；幼儿园优先目标为金色摇篮幼儿园，计划落户西城区（奶奶房产）后就读自忠小学（当前家庭判断约80%确定，仍须核验资格）
+> 孩子：预产期 2026-12-12，男孩，北京朝阳亚运村现居；同小区金色摇篮幼儿园资质已核验；自忠小学资质已核验并在其招生简章登记入学范围内。实际报名仍须按当年公告和材料审核办理。
 > 0-3岁官方基线：[CHS-Guide-summary.md](../references/CHS-Guide-summary.md)，国家卫生健康委办公厅，国卫办妇幼函〔2022〕409号。本文整合专项报告，按阶段给出待办、购物清单和预估花费：
 > 已下载补充：[NHC-Sleep-0-5-WST579-2017.pdf](../references/NHC-Sleep-0-5-WST579-2017.pdf)、[WHO-Activity-Sedentary-Sleep-Under5-2019.pdf](../references/WHO-Activity-Sedentary-Sleep-Under5-2019.pdf)、[WHO-Nurturing-Care-Framework-2018.pdf](../references/WHO-Nurturing-Care-Framework-2018.pdf)。睡眠以中国WS/T 579和CHS为执行优先，WHO用于交叉参考；3-6岁教育资料见专项报告。
 > - [policy-report-0-3.md](./policy-report-0-3.md) — 生育/落户/医保政策（policy-agent）

@@ -30,7 +30,7 @@
 | [psychology-report-0-3.md](./psychology-report-0-3.md) | 依恋、情绪、自主性和教养策略 | `B/C`；不作心理诊断 |
 | [education-resource-report-0-3.md](./education-resource-report-0-3.md) | 低成本书籍、课程与家庭教育资源 | `C`建议性 |
 | [physical-development-report-0-6.md](./physical-development-report-0-6.md) | 大运动、亲子网球、身高跟踪与安全 | `B/C`；按儿保数据调整 |
-| [school-report-0-3.md](./school-report-0-3.md) | 金色摇篮幼儿园和自忠小学时间线 | 时间推算`C`；资格政策`D` |
+| [school-report-0-3.md](./school-report-0-3.md) | 金色摇篮幼儿园和自忠小学时间线 | 时间推算`C`；资格为用户提供的核验结果，报名年度仍复核 |
 | [infant-seven-practices-review.md](./infant-seven-practices-review.md) | 婴儿自由运动、共读、语言、户外和回应式互动 | 出生后按月启用；辅食约6月龄再启用 |
 | [infant-reading-guide-0-3.md](./infant-reading-guide-0-3.md) | 0-3岁分龄选书、共享阅读、点读/有声/机关书和语言里程碑 | 出生后立即启用共读；产品按龄少量使用 |
 
